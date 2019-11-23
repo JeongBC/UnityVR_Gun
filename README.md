@@ -21,7 +21,7 @@ using UnityEngine;
   ------------
 ## How to Play
 
-Vive
+__Vive__
 
 Left Pad :: Move
 Right Pad :: Down- Drop Magazine
