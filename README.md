@@ -4,7 +4,9 @@ This Project is Gun Interactive for VR.
 
 ------------  
 
-## Vedio
+## Vedio Link
+
+https://youtu.be/LGfbBbB82VY
 
 ------------  
 ## Important code(script)
